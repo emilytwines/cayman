@@ -7,7 +7,7 @@ layout: default
 # Emily Twines
 
 # Bio
-Emily Twines is an interdisciplinary performance and technology artist with experience directing, writing, programming, and designing interactive theatrical elements. She earned her MA in Theatre History and Criticism and MFA in Performance and Interactive Media Arts at Brooklyn College. Current works include the live video game and community engagement project lookingGlass, and Self Portrait, a durational performance installation.
+Emily Twines is an interdisciplinary performance and technology artist with experience directing, writing, programming, performing, and designing interactive theatrical experiences. She earned her MA in Theatre History and Criticism and MFA in Performance and Interactive Media Arts at Brooklyn College. Current works include the live video game and community engagement project lookingGlass, and Self Portrait, a durational performance installation.
 
 Other notable pieces include writing for The House, a short film by renowned director Cyril Teste and team, as well as I heard an echo, a collaborative installation at The Weeksville Heritage Center, for which she provided video and interactivity elements, and articles/reviews written for Cycling ’74 and All About Solo. She also recently wrote and performed a monologue for a Miseducated and a solo variety act called “On Progress” With Professor Steward Orwell Teric III at Bizarre Bushwick. Her MA thesis project, with its accompanying paper entitled Maintaining Subversion: A Contemporary “Endgame” Informed by the Mise en Scène Style of Ivo Van Hove, included the staging of a re-politicized adaptation of scenes inspired by Samuel Beckett’s 1957 play, which she conceptualized and directed, and for which she created audio and video design.
 
