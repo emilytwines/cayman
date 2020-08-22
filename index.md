@@ -2,13 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Mission Statement 
 My artistic practice is founded on the belief that large-scale change can be brought about by what begins as small-scale communication within individual communities. Sharing openly, seeing each other, hearing what we collectively need -- and then making tangible moves towards achieving these conditions -- this is what legitimate political power looks like to me.
@@ -35,6 +29,16 @@ If you would like to participate in any ongoing project (or suggest any others),
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ### Header 3
 
