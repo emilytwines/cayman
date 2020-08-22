@@ -10,6 +10,15 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+# Mission Statement 
+My artistic practice is founded on the belief that large-scale change can be brought about by what begins as small-scale communication within individual communities. Sharing openly, seeing each other, hearing what we collectively need -- and then making tangible moves towards achieving these conditions -- this is what legitimate political power looks like to me.
+
+To this end, I aspire to create work that helps communities both A) to re-enforce the fact that a better world is attainable and B) to articulate in each situation what the material conditions are that would need to change for this “better” to achieved.
+
+I work in a variety of mediums, styles, formats, and am interested creative solutions that fit form to content. As exploration and innovation are central to my practice, so is collaboration. My goals are to listen more than I talk, to experiemnt, and to find ways forward together.
+
+
+
 # Bio
 
 Emily Twines is an interdisciplinary performance and technology artist with experience directing, writing, programming, and designing interactive theatrical elements. She earned her MA in Theatre History and Criticism and MFA in Performance and Interactive Media Arts at Brooklyn College. Current works include the live video game and community engagement project lookingGlass, and Self Portrait, a durational performance installation.
