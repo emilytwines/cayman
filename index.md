@@ -11,8 +11,6 @@ Emily Twines is an interdisciplinary performance and technology artist with expe
 
 Other notable pieces include writing for The House, a short film by renowned director Cyril Teste and team, as well as I heard an echo, a collaborative installation at The Weeksville Heritage Center, for which she provided video and interactivity elements, and articles/reviews written for Cycling ’74 and All About Solo. She also recently wrote and performed a monologue for a Miseducated and a solo variety act called “On Progress” With Professor Steward Orwell Teric III at Bizarre Bushwick. Her MA thesis project, with its accompanying paper entitled Maintaining Subversion: A Contemporary “Endgame” Informed by the Mise en Scène Style of Ivo Van Hove, included the staging of a re-politicized adaptation of scenes inspired by Samuel Beckett’s 1957 play, which she conceptualized and directed, and for which she created audio and video design.
 
-With the generous help of a Tow Summer Fellowship, Emily spent the summer working in France where she studied the tactics of French theatre during heightened political moments through three case studies: the 1789 Revolution, Mai 1968, and of the contemporary era today, taking into special consideration the Gilets Jaunes protests and the performances at the Festival d’Avignon. She is currently continuing this research stateside and preparing to create an original performance piece and an academic paper, working title: Performing Revolution: French Political Theatre Tactics of 1789, 1968, and Today.
-
 If you would like to participate in any ongoing project (or suggest any others), please do not hesitate to message at emilytwines@gmail.com.
 
 
