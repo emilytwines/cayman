@@ -1,185 +1,31 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+---
+layout: compress
+---
 
+{% include base_path %}
 
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
-
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
-    <meta charset="UTF-8">
-
-{% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-   
-
-
-<!-- Navigation -->
-<nav class="navbar navbar-custom navbar-fixed-top top-nav-collapse" role="navigation">
-  <div class="container">
-      <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-              <i class="fa fa-bars"></i>
-          </button>
-          <a class="navbar-brand page-scroll" href="#page-top">
-          </a>
-      </div>
-
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-          <ul class="nav navbar-nav">
-              <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-              <li class="hidden">
-                  <a href="#page-top"></a>
-              </li>
-               <!--
-              <li class="">
-                  <a class="page-scroll" href="#home">Home</a>
-              </li>
-              <li class="">
-                  <a class="page-scroll" href="#projects">Projects</a>
-              </li>
-              <li class="">
-                  <a class="page-scroll" href="#writing">Writing</a>
-              </li>
-              <li class="active">
-                  <a class="page-scroll" href="#Resume">Resume</a>
-                  -->
-              
-                <li class="">
-                  <div class="Home">
-                    <button class="dropbtn">Home</button>
-                    <div class="dropdown-content">
-                      <a href="./">Home</a> 
-                      <a href="#">Link 2</a>
-                    </div>
-                  </div> 
-                </li>
-                <li class="">
-                  <div class="dropdown">
-                    <button class="dropbtn">Projects</button>
-                    <div class="dropdown-content">
-                      <a href="../pages/self_portrait.md">Self Portrait</a>
-                      <a href="#">Link 2</a>
-                      <a href="#">Link 3</a>
-                    </div>
-                  </div> 
-                </li>
-                <li class="">
-                  <div class="dropdown">
-                    <button class="dropbtn">Writing</button>
-                    <div class="dropdown-content">
-                      <a href="#">Link 1</a>
-                      <a href="#">Link 2</a>
-                      <a href="#">Link 3</a>
-                    </div>
-                  </div> 
-                </li>
-                <li class="">
-                  <div class="dropdown">
-                    <button class="dropbtn">Resume</button>
-                    <div class="dropdown-content">
-                      <a href="#">Link 1</a>
-                      <a href="#">Link 2</a>
-                      <a href="#">Link 3</a>
-                    </div>
-                  </div> 
-                </li>
-
-
-              </li>
-          </ul>
-      </div>
-      <!-- /.navbar-collapse -->
-  </div>
-  <!-- /.container -->
-</nav>
-
-
-
-   <style> 
-     /* Dropdown Button */
-.dropbtn {
-  background-color: #4CAF50;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-
-}
-
-/* The container <div> - needed to position the dropdown content */
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f1f1f1;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-/* Links inside the dropdown */
-.dropdown-content a {
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
-
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #ddd;}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {display: block;}
-
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;} 
-
-
-
- </style>
- 
+    {% include head.html %}
+    {% include head/custom.html %}
   </head>
 
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download Resume</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-      
-    </header>
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
+    {{ content }}
 
-      <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
       </footer>
-    </main>
+    </div>
+
+    {% include scripts.html %}
+
   </body>
 </html>

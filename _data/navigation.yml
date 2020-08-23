@@ -1,0 +1,20 @@
+# main links links
+main:
+  - title: "New Media"
+    url: /new-media/
+  
+  - title: "Writing"
+    url: /writing/ 
+  
+  - title: "Theatre"
+    url: /theatre/
+  
+  - title: "Talks"
+    url: /talks/
+
+  - title: "CV"
+    url: /cv/
+ 
+  #TODO: Remove This for final
+  - title: "Guide"
+    url: /markdown/
