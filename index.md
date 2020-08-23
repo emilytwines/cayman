@@ -28,8 +28,3 @@ I work in a variety of mediums, styles, formats, and am interested in creative s
 ## Resume
 
  	[EmilyTwines_CV.pdf](./emily_cv_7_8_20.pdf)
-
-
-[Self Portrait](./another-page-copy.md).
-
-
