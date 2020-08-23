@@ -1,90 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
-<!-- Navigation -->
-<nav class="navbar navbar-custom navbar-fixed-top top-nav-collapse" role="navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand page-scroll" href="#page-top">
-                    <!-- The next billion online -->
-                </a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-                <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                     <!--
-                    <li class="">
-                        <a class="page-scroll" href="#home">Home</a>
-                    </li>
-                    <li class="">
-                        <a class="page-scroll" href="#projects">Projects</a>
-                    </li>
-                    <li class="">
-                        <a class="page-scroll" href="#writing">Writing</a>
-                    </li>
-                    <li class="active">
-                        <a class="page-scroll" href="#Resume">Resume</a>
-                        -->
-                    
-                      <li class="">
-                        <div class="dropdown">
-                          <button class="dropbtn">Dropdown</button>
-                          <div class="dropdown-content">
-                            <a href="./self_portrait.md">Self Portrait</a> 
-                            <a href="#">Link 2</a>
-                            <a href="#">Link 3</a>
-                          </div>
-                        </div> 
-                      </li>
-                      <li class="">
-                        <div class="dropdown">
-                          <button class="dropbtn">Dropdown</button>
-                          <div class="dropdown-content">
-                            <a href="#">Link 1</a>
-                            <a href="#">Link 2</a>
-                            <a href="#">Link 3</a>
-                          </div>
-                        </div> 
-                      </li>
-                      <li class="">
-                        <div class="dropdown">
-                          <button class="dropbtn">Dropdown</button>
-                          <div class="dropdown-content">
-                            <a href="#">Link 1</a>
-                            <a href="#">Link 2</a>
-                            <a href="#">Link 3</a>
-                          </div>
-                        </div> 
-                      </li>
-                      <li class="">
-                        <div class="dropdown">
-                          <button class="dropbtn">Dropdown</button>
-                          <div class="dropdown-content">
-                            <a href="#">Link 1</a>
-                            <a href="#">Link 2</a>
-                            <a href="#">Link 3</a>
-                          </div>
-                        </div> 
-                      </li>
-
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
-
-
-
 
   <head>
 
@@ -118,7 +34,96 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download Resume</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
+      
     </header>
+
+
+
+<!-- Navigation -->
+<nav class="navbar navbar-custom navbar-fixed-top top-nav-collapse" role="navigation">
+  <div class="container">
+      <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+              <i class="fa fa-bars"></i>
+          </button>
+          <a class="navbar-brand page-scroll" href="#page-top">
+              <!-- The next billion online -->
+          </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+          <ul class="nav navbar-nav">
+              <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+              <li class="hidden">
+                  <a href="#page-top"></a>
+              </li>
+               <!--
+              <li class="">
+                  <a class="page-scroll" href="#home">Home</a>
+              </li>
+              <li class="">
+                  <a class="page-scroll" href="#projects">Projects</a>
+              </li>
+              <li class="">
+                  <a class="page-scroll" href="#writing">Writing</a>
+              </li>
+              <li class="active">
+                  <a class="page-scroll" href="#Resume">Resume</a>
+                  -->
+              
+                <li class="">
+                  <div class="dropdown">
+                    <button class="dropbtn">Dropdown</button>
+                    <div class="dropdown-content">
+                      <a href="./self_portrait.md">Self Portrait</a> 
+                      <a href="#">Link 2</a>
+                      <a href="#">Link 3</a>
+                    </div>
+                  </div> 
+                </li>
+                <li class="">
+                  <div class="dropdown">
+                    <button class="dropbtn">Dropdown</button>
+                    <div class="dropdown-content">
+                      <a href="#">Link 1</a>
+                      <a href="#">Link 2</a>
+                      <a href="#">Link 3</a>
+                    </div>
+                  </div> 
+                </li>
+                <li class="">
+                  <div class="dropdown">
+                    <button class="dropbtn">Dropdown</button>
+                    <div class="dropdown-content">
+                      <a href="#">Link 1</a>
+                      <a href="#">Link 2</a>
+                      <a href="#">Link 3</a>
+                    </div>
+                  </div> 
+                </li>
+                <li class="">
+                  <div class="dropdown">
+                    <button class="dropbtn">Dropdown</button>
+                    <div class="dropdown-content">
+                      <a href="#">Link 1</a>
+                      <a href="#">Link 2</a>
+                      <a href="#">Link 3</a>
+                    </div>
+                  </div> 
+                </li>
+
+              </li>
+          </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container -->
+</nav>
+
+
+
+
 
     <main id="content" class="main-content" role="main">
       {{ content }}
