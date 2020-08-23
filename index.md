@@ -30,6 +30,7 @@ I work in a variety of mediums, styles, formats, and am interested in creative s
  	[EmilyTwines_CV.pdf](./emily_cv_7_8_20.pdf)
 
 
+[Self Portrait](./another-page-copy.md).
 
 
 > This is a blockquote following a header.
@@ -40,7 +41,7 @@ I work in a variety of mediums, styles, formats, and am interested in creative s
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page copy.html).
 
 There should be whitespace between paragraphs.
 
