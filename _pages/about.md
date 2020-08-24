@@ -28,7 +28,3 @@ My artistic practice is founded on the belief that large-scale change can be bro
 To this end, I aspire to create work that helps communities both A) to re-enforce the fact that a better world is attainable and B) to articulate in each situation what the material conditions are that would need to change for this “better” to be achieved.
 
 I work in a variety of mediums, styles, formats, and am interested in creative solutions that fit form to content rather than the other way around. As this exploration and innovation is central to my practice, so is collaboration. My goals are to listen more than I talk, to experiemnt, and to find ways forward together.
-
-## Resume
-
- 	[EmilyTwines_CV.pdf](./emily_cv_7_8_20.pdf)
