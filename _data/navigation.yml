@@ -16,5 +16,5 @@ main:
     url: /cv/
  
   #TODO: Remove This for final
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+   # url: /markdown/

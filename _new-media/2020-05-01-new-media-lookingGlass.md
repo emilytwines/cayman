@@ -4,10 +4,16 @@ excerpt: "Immersive Theatre as a live 3D Video Game<br/><img src='../images/surv
 collection: new-media
 ---
 
+
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://youtu.be/IYF5CmvJnog" frameborder="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IYF5CmvJnog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
+
+
+
+
+
 <!-- blank line -->
 
 I created _lookingGlass_, an experiment in digital theatre through live 3D gaming originally as my MFA thesis when in-person performance became unsafe in March. 
@@ -19,5 +25,5 @@ The game, which is played by “audience” live alongside a twitch-style stream
 
 With a prototype, featured by _No Proscenium_, created between March and May 2020, and an intermediate version being presented July 15 by the online magazine _OyeDrum_, _lookingGlass_ is an attempt to combat hegemony, but also very immediately to fight isolation and alienation in this moment, to give communities the outlet they seem to currently need, and to be a place and a space to reflect or to center oneself when everything around feels like it’s spiraling apart.
 
-[lookingGlass Press Release for OyeDrum](../files/lookingGlass_OyeDrum_PressRelease.pdf)
+[Press Release for OyeDrum showing](../../files/lookingGlass_OyeDrum_PressRelease.pdf)
 
