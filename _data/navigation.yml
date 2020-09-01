@@ -6,9 +6,6 @@ main:
   - title: "Writing"
     url: /writing/ 
   
-  - title: "Theatre"
-    url: /theatre/
-  
   - title: "Talks"
     url: /talks/
 
