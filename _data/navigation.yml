@@ -7,7 +7,7 @@ main:
     url: /writing/ 
   
   - title: "Talks"
-    url: /talks/
+    url: /talk/
 
   - title: "CV"
     url: /cv/

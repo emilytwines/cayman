@@ -1,8 +1,8 @@
 ---
 title: "Symposium on Interactive Virtual Theatre"
-collection: talks
+collection: Talks
 type: "Talk"
-permalink: /talks/2020-07-16-talk-symposium
+permalink: /talk/2020-07-16-talk-symposium
 venue: "Online"
 date: 2020/07/16
 location: "Online"
