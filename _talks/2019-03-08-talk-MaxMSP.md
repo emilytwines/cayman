@@ -2,7 +2,7 @@
 title: "Invited Lecture on Max MSP"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/2019-03-08-talk-MaxMSP
 venue: "Columbia University"
 date: 2019/03/08
 location: "NYC"

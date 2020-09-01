@@ -2,7 +2,7 @@
 title: "OyeDrum Magazine Volume II Kickoff"
 collection: talks
 type: "Talk"
-permalink: /talk-OyeDrum
+permalink: /talks/2020-07-16-talk-OyeDrum
 venue: "Online"
 date: 2020-07-16
 location: "Online"
