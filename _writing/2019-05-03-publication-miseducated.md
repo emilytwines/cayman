@@ -21,10 +21,15 @@ A bell rings. A teacher in a skirt, large Southern ﬂoral prints, and clunky, u
 Projection: My Notes in a Spiral Notebook:
 
 • Aszatia is the greek word for abstinence
+
 • Shame is a synonym for sex
+
 • If I don’t sign this pledge, my name won’t go up on the display outside of the Olympics.
+
 • If I get pregnant, I will be embarrassed.
+
 • If I get an STD, no one will love me.
+
 • If I contract HIV, I will die.
 
 When I was in middle school, all the “older” kids – 7th or 8th graders, I can’t remember which anymore – took a class called Azetia. It was taught in the Home Economics classroom where this frail woman – Mrs. Peel I think, or something like that – taught sewing and cooking and whatever else, ironing I remember particularly. She didn’t teach Azatia, of course; the Special Presenter was brought in, once a week, to Mrs. Peel’s classroom, for that.
@@ -60,10 +65,15 @@ I have Always known that Azatia is the Greek word for abstinence. I know this to
 I write in my notebook:
 
 • Aszatia is the Greek word for abstinence
+
 • And Shame is a synonym for sex
+
 • And If I don’t sign this pledge, my name won’t go up on the display outside of the Olympics.
+
 • And If I get pregnant, I will be embarrassed.
+
 • And If I get an STD, no one will love me.
+
 • And If I contract HIV, I will die.
 
 
