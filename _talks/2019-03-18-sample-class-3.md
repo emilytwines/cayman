@@ -2,7 +2,7 @@
 title: "Political Performance and the WTO protests"
 collection: talks
 type: "Sample Class"
-permalink: /2019-03-18-talk-WTO/
+permalink: /WTO-Protests-talk
 venue: "Brooklyn College"
 date: 2019/03/18
 location: "NYC"

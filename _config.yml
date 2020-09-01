@@ -210,7 +210,7 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-
+  
   # _publications
   - scope:
       path: ""
