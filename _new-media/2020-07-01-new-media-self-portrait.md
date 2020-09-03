@@ -1,6 +1,7 @@
 ---
 title: "Self Portrait"
-excerpt: "A Socially-Distanced Durational Performance Installation<br/><img src='../images/Chanan3.jpg'>"
+excerpt: "A Socially-Distanced Durational Performance Installation<br/><img src='../images/Chanan3.jpg'> A socially-distanced durational performance installation in the works, “Self Portrait” is to be composed of a video sculpture and walls filled with images: images of people, of friends, of family.
+"
 collection: new-media
 ---
 
@@ -15,7 +16,6 @@ collection: new-media
 
 
 <!-- blank line -->
-
 I am using: Adobe Suite, MaxMSP, DSLR cameras, charcoal on paper, and live performance.
 
 A socially-distanced durational performance installation in the works, “Self Portrait” is to be composed of a video sculpture and walls filled with images: images of people, of friends, of family.

@@ -11,7 +11,9 @@ redirect_from:
 
 
 ## Bio
-Emily Twines is an interdisciplinary performance and technology artist with experience directing, writing, programming, performing, and designing interactive theatrical experiences. She earned her MA in Theatre History and Criticism and MFA in Performance and Interactive Media Arts at Brooklyn College. Current works include the live video game and community engagement project lookingGlass, and Self Portrait, a durational performance installation.
+Emily Twines is an interdisciplinary performance and technology artist with experience directing, writing, programming, performing, and designing interactive theatrical experiences. 
+
+She earned her MA in Theatre History and Criticism and MFA in Performance and Interactive Media Arts at Brooklyn College. Current works include the live video game and community engagement project lookingGlass, and Self Portrait, a durational performance installation.
 
 Other notable pieces include writing for _The House_, a short film by renowned director Cyril Teste and team, as well as _I heard an echo_, a collaborative installation at The Weeksville Heritage Center, for which she provided video and interactivity elements, and articles/reviews written for Cycling ’74 and All About Solo. 
 

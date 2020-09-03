@@ -1,6 +1,7 @@
 ---
 title: "The House"
-excerpt: "A Collaborative 20-min, One-Shot Film<br/><img src='../images/the_house_snapshot2.png'>"
+excerpt: "A Collaborative 20-min, One-Shot Film<br/><img src='../images/the_house_snapshot2.png'> During a week-long workshop with renowned french filmic theatre director Cyril Teste and his team, the gathered collective created a single-shot 20-minute film inspired by the architecture and presence of an historic home at The Weeksville Heritage Center. 
+"
 collection: new-media
 ---
 

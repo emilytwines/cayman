@@ -1,6 +1,6 @@
 ---
 title: "I heard an echo"
-excerpt: "An Installation with the Weeksville Heritage Center<br/><img src='../images/weeksville_snapshot.png'>"
+excerpt: "An Installation with the Weeksville Heritage Center<br/><img src='../images/weeksville_snapshot.png'> This was a community event involving an outdoor party with music and food and an installation inside one of the Historic Hunter Fly Road houses at the Weeksville Heritage Center. The project was meant to help celebrate the history of the house, and to bring “the past into the present.”"
 collection: new-media
 ---
 
@@ -17,7 +17,7 @@ I used: MaxMSP, an IR camera, arduino, and co-directed the movement sequences.
 
 <!--- more --->
 
-This was a community event involving an outdoor party with music and food and an installation inside one of the Historic Hunter Fly Road houses at the Weeksville Heritage Center. The project was meant to help celebrate the history of the house, and to bring “the past into the present,” so to speak.
+This was a community event involving an outdoor party with music and food and an installation inside one of the Historic Hunter Fly Road houses at the Weeksville Heritage Center. The project was meant to help celebrate the history of the house, and to bring “the past into the present.”
 
 We all filmed the actors in the space, then I edited the media so that takes layered over each and then ran this product through a Max MSP patch that delayed the video so that it created visual trails as the actors moved. Although I liked the saturation of the above video, we eventually decided to tone it down a little, which I did directly in the Max program.
 

@@ -1,6 +1,6 @@
 ---
 title: "lookingGlass"
-excerpt: "Immersive Theatre as a live 3D Video Game<br/><img src='../images/surveillance_shot.jpg'>"
+excerpt: "Immersive Theatre as a live 3D Video Game<br/><img src='../images/surveillance_shot.jpg'> I created _lookingGlass_, an experiment in digital theatre through live 3D gaming originally as my MFA thesis when in-person performance became unsafe in March."
 collection: new-media
 ---
 
@@ -18,7 +18,8 @@ collection: new-media
 
 I am using/have used: the Unity Game Engine (C#), Adobe Suite, Zoom, DSLR cameras, interviews, and live performance.
 
-I created _lookingGlass_, an experiment in digital theatre through live 3D gaming originally as my MFA thesis when in-person performance became unsafe in March. 
+I created _lookingGlass_, an experiment in digital theatre through live 3D gaming originally as my MFA thesis when in-person performance became unsafe in March.
+
 
 <!--- more --->
 

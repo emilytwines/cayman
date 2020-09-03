@@ -1,6 +1,7 @@
 ---
 title: "'On Progress' With Proessor Stewart Orwell Teric III"
-excerpt: "A Satire of Western Academic Progress Narratives<br/><img src='../images/on-progress.jpg'>"
+excerpt: "A Satire of Western Academic Progress Narratives<br/><img src='../images/on-progress.jpg'> This piece begins with a pitch-shifted “vaping professor” male drag version of myself who lectures on the topic of progress from Aristotle to Kuhn. 
+"
 collection: new-media
 ---
 

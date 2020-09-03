@@ -1,6 +1,7 @@
 ---
 title: "(Un)Twined"
-excerpt: "A Study on Memory, Loss, and Human Resilience<br/><img src='../images/untwined.jpg'>"
+excerpt: "A Study on Memory, Loss, and Human Resilience<br/><img src='../images/untwined.jpg'> (Un)twined was conceived, designed/programmed, and presented by John Baylies and myself as the final project for our 7010 course in the PIMA program at Brooklyn College in December 2018. Built from scratch and run from Max/MSP through a Touch OSC interface on my phone, this project explored the losses we had each experienced in our recent adult lives, touching on memory of loved ones, of home, and of what it means to be a family.
+"
 collection: new-media
 ---
 
