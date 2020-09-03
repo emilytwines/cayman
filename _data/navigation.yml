@@ -7,10 +7,10 @@ main:
     url: /writing/ 
   
   - title: "Talks"
-    url: /talk/
+    url: /talks/
 
   - title: "CV"
-    url: /cv/
+    url: /../files/CV.pdf
  
   #TODO: Remove This for final
   #- title: "Guide"
