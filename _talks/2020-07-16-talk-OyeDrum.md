@@ -9,4 +9,6 @@ location: "Online"
 ---
 
 
-I was asked to give a short talk for OyeDrum Magazine as part of their Volume II celebration on the live video game lookingGlass. 
+I was asked to give a short talk for OyeDrum Magazine as part of their Volume II celebration on the live video game _lookingGlass_. 
+
+I discussed the content of the piece, focusing on its methods of creating narrative.

@@ -10,3 +10,5 @@ location: "Online"
 
 
 I was asked to present a segment on lookingGlass, the live video game I created for my MFA thesis in May, as a part of a conversation on creating experimental virtual theatre. 
+
+I discussed the translation of theatre to the digital realm -- the difficulties of the formal change, solutions I had discovered, as well as the questions that I continue to explore. 
