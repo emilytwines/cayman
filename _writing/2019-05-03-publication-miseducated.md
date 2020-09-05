@@ -9,9 +9,7 @@ paperurl:
 citation: 
 ---
 
-From Miseducated
-
-The was part of an interdisciplinary Performance and Interactive Media Arts MFA thesis production called Miseducated. I wrote and performed this piece as a monologue. Just before this, there was a long, intense dance sequence exploring a set of gestures in different contexts. I was seated in the audience, so on the ﬁrst line below I came down the aisle from the audience to the stage.
+The was part of the interdisciplinary Performance and Interactive Media Arts MFA thesis production  _Miseducated_. I wrote and performed this selection as a monologue. Just before this, there was a long, intense dance sequence exploring a set of gestures in different contexts. I was seated in the audience, so on the ﬁrst line below I came down the aisle from the audience to the stage.
 
 The piece plays with duality, so to give the sense of being two different characters at once, one remembered and one current, one student and one teacher, I performed all the stage directions and indicators written in parentheses as part of the spoken monologue, save what is written in brackets (ex: my ﬁrst lines were “a bell rings,” but I did not read [turn].
 

@@ -9,6 +9,8 @@ paperurl:
 citation: 
 ---
 
+excerpt: 
+
 “So Shines a Good Deed,” a storytelling performance by Mark Redmond, offers a glimmer of hope in a contemporary world often resigned to darkness.
  
 Mr. Redmond is the Executive Director of Spectrum Youth & Family Services, a Vermont‑based group that offers social services to young people in need. A seemingly endless font of stories, he takes us on sensitive journeys with humor and grace...

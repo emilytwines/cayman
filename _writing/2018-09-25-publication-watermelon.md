@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
 
-Watermelon
+"Watermelon"
 
 I met her in passing and passed by for months. It was a January when we first talked, or first listened at least. Us two hiding together in the bathroom because we’d only paid for 4 in the hotel; there’s a picture marking our first day of friendship. 
 

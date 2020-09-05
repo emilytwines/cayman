@@ -1,7 +1,7 @@
 ---
 title: "'On Progress' With Professor Stewart Orwell Teric III "
 collection: publications
-permalink: /publication/2018-09-25-publication-watermelon
+permalink: /publication/2019-03-12-publication-on-progress-text
 excerpt: "_A podium with a decorative potted plant, a white board behind. Enter Professor Stewart-Orwell Teric III (it’s me in Young Vaping Academic drag, holding enormous book “Sociology of Philosophy”). Bowtie, snazzy jacket, etc.)_ Sorry, sorry class – just have to finish this text to Judy – and send – oh, to Judith Butler I mean..."
 date: 2019-03-12
 venue: 'Variety Show fundraiser performance at Bizarre Bushwick'
@@ -12,7 +12,8 @@ citation:
 With Professor Stewart Orwell Teric III 
 
 The following is the first draft of a text (with one important plot detail updated) around which the performance was subsequently loosely improvised. 
-________________________________________
+
+---
 
 A podium with a decorative potted plant, a white board behind.
 Enter Professor Stewart-Orwell Teric III (it’s me in Young Vaping Academic drag, holding enormous book “Sociology of Philosophy”). Bowtie, snazzy jacket, etc.)
