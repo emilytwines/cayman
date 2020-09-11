@@ -3,6 +3,11 @@ title: 'AI for the Art World:
 Neural Nets and Artistic Application'
 date: 2019-06-08
 permalink: /posts/blog-AI
+excerpt: "Who are my biggest influences? It's a dreaded prompt. Inquiries such as these often imply deep soul-searching evenings and endless grant application re-writes… Yes I know I _like_ the Expressionists, but do they influence my work? Do I think of them when I paint? What does it even mean to be influenced?
+
+But.
+
+But what if you could just — get an objective response? No talk of process or who you admire or who you grew up with plastered on your wall — just a quantifiable, numerical answer?"
 tags:
   - art
   - AI

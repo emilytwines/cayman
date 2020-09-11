@@ -2,6 +2,7 @@
 title: 'Letters from Quarantine, or Why Theatre People Should Care About Video Games'
 date: 2020-09-11
 permalink: /posts/blog-lookingGlass
+excerpt: "Theatre, an art form founded on the concept of physical closeness, on the gathering and the witnessing of live bodies in space, and on the communal experience of shared, lived events, demands togetherness. And in the time of COVID-19, where being together in the traditional ways is impossible, theatre is in crisis."
 tags:
   - art
   - gaming
