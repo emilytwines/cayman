@@ -7,10 +7,8 @@ tags:
   - gaming
   - theatre
 ---
-
 Taking Stock
 ------
-
 Theatre, an art form founded on the concept of physical closeness, on the gathering and the witnessing of live bodies in space, and on the communal experience of shared, lived events, demands togetherness. And in the time of COVID-19, where being together in the traditional ways is impossible, theatre is in crisis.  
 
 Since March 2020, artists across the world have been facing a conundrum, one which still has no clear answers and no obvious direction: how do we make theatre without the aid of a stage, of black walls, of lights, of flats, of seats; in short, how do we make theatre without anyone stepping foot inside of one? 
