@@ -1,7 +1,7 @@
 ---
 title: 'Letters from Quarantine, or Why Theatre People Should Care About Video Games'
 date: 2020-09-11
-permalink: /posts/2020-09-11-blog-post-lookingGlass
+permalink: /posts/blog-lookingGlass
 tags:
   - art
   - gaming

@@ -2,7 +2,7 @@
 title: 'AI for the Art World: 
 Neural Nets and Artistic Application'
 date: 2019-06-08
-permalink: /posts/2019-08-06-blog-post-AI
+permalink: /posts/blog-AI
 tags:
   - art
   - AI
