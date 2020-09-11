@@ -15,7 +15,7 @@ Since March 2020, artists across the world have been facing a conundrum, one whi
 
 A Digital Translation
 ------
-I am a theatre person. I have an MA in reading it and an MFA in making it, so when NYC started shutting theatres down in the middle of final rehearsals for one of my shows, I was more or less freaked -- glad that appropriate measures were being taken to protect the health and safety of NYC residents, of course – but personally and professionally, freaked. Theatre was my life, my livelihood (well sort of), and my love – what was my community supposed to do without it? 
+I am a theatre person. I have an MA in reading it and an MFA in making it, so when NYC started (understandably) shutting theatres down in the middle of final rehearsals, I was more or less freaked. Theatre was my life, my livelihood (well sort of), and my love – what was my community supposed to do without it? 
 
 Or are we without it?
 
