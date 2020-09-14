@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[CV.pdf](../files/CV.pdf)
+[emilyTwines.pdf](../files/emilyTwines.pdf)
 
