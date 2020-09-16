@@ -105,7 +105,7 @@ To make theatre in 2020, we need to translate, not graft, our work to fit the ne
  
 ----
 
-Join us for a [live play of lookingGlass](https://reclaimfutures.org/) Sunday 12:45pm EST and check out the whole ReclaimFutures conference this weekend starting Friday 9/18!
+### Join us for a [live play of lookingGlass](https://reclaimfutures.org/) Sunday 12:45pm EST and check out the whole ReclaimFutures conference this weekend starting Friday 9/18!
 
 
 
