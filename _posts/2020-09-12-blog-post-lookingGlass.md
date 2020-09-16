@@ -73,7 +73,7 @@ Along these same lines, I included very little instruction in the scene, which f
 
 If you manage to survive until 5pm -- either by coming to terms with the fact that there really is nothing to "do" in order to advance or by sheer luck, a sledgehammer appears, and a health bar hovers over the top of the sink. Smash the sink, and the back wall of the office drops out, revealing a hallway leading to next scene (read:  _Act II, enter avatar_).
 
-<img src='../../images/deborah.jpg'>
+<img src='../../images/surveillance_shot.jpg'>
 
 The Problems
 ------
