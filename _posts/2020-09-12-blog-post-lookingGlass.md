@@ -1,6 +1,6 @@
 ---
 title: 'Letters from Quarantine, or Why Theatre People Should Care About Video Games'
-date: 2020-09-11
+date: 2020-09-12
 permalink: /posts/blog-lookingGlass
 excerpt: "Theatre, an art form founded on the concept of physical closeness, on the gathering and the witnessing of live bodies in space, and on the communal experience of shared, lived events, demands togetherness. And in the time of COVID-19, where being together in the traditional ways is impossible, theatre is in crisis."
 tags:
@@ -14,6 +14,15 @@ Theatre, an art form founded on the concept of physical closeness, on the gather
 
 Since March 2020, artists across the world have been facing a conundrum, one which still has no clear answers and no obvious direction: how do we make theatre without the aid of a stage, of black walls, of lights, of flats, of seats; in short, how do we make theatre without anyone stepping foot inside of one? 
 
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2_DK4rcSw0?autoplay=1" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+<!-- blank line -->
+
 A Digital Translation
 ------
 I am a theatre person. I have an MA in reading it and an MFA in making it, so when NYC started (understandably) shutting theatres down in the middle of final rehearsals for a show I was creating, I was more or less freaked. Theatre was my life, my livelihood (well sort of), and my love – what was my community supposed to do without it? 
@@ -26,12 +35,16 @@ What is the translation then, if not from the page to the stage, but onto the co
 
 To appropriately adapt the stage piece I had been working on, I needed a virtual space that a virtual audience could, by their own autonomous actions, explore, with which they could interact, from which they could learn a new perspective. 
 
+<img src='../../images/blanket.jpg'>
+
+
 An Admission
 ------
 
 Now here’s my shameful admission: I am not, or at least was not, a “gamer.” I grew up with a Nintendo 64 and played the hell out of some Zelda and Mario, but was not up on the newest and shiniest, and had no idea how to go about making game. A quick Google search brings up Unity and Unreal though, and a coin toss chooses between them, so with a month to go before my project was due (I mean the show must go on, right?), I started making a video game. 
 
 And it wasn't impossible. There are a ton of resources available especially right now online for folks looking to learn some of these skills. Codecademy was offering free pro memberships so I sprinted through their online pro course in C# (the Unity base language) in about a week. Unity was also offering free access to their premium features and had done a very cool online tutorial series called Create With Code Live. And of course I have to take this chance to pay homage to the gods among men who post to YouTube – Jayanam, if you ever read this, you saved me bro, mad love to you forever...
+
 
 The Show
 ------
@@ -60,6 +73,8 @@ Along these same lines, I included very little instruction in the scene, which f
 
 If you manage to survive until 5pm -- either by coming to terms with the fact that there really is nothing to "do" in order to advance or by sheer luck, a sledgehammer appears, and a health bar hovers over the top of the sink. Smash the sink, and the back wall of the office drops out, revealing a hallway leading to next scene (read:  _Act II, enter avatar_).
 
+<img src='../../images/deborah.jpg'>
+
 The Problems
 ------
 This translation, though more direct than anticipated, was not without difficulties. In an online game, unlike in a theatre room, there is very little keeping the audience from leaving; you as the designer have a lot less of a grace period to make people uncomfortable before they give up. Because of the intentionally frustrating nature of the opening act, this period, and how to anticipate and / or extend it, is of great interest to me.
@@ -71,6 +86,8 @@ I have two theories:
 2.) Audiences with backgrounds primariliy in video games are perhaps used to this, and expect to be able to discover the rules and how to “win” immediately. Push the right buttons at the right times, employ the right strategies, demonstrate the right skills -- this is traditionally as I understand it the way to succeed in a video game. _lookingGlass_, however, with its wait-it-out, the-suffering-is-part-of-it first act, does not allow for this sort of on-command advancement. Consequently this audience may become frustrated with the pacing. 
 
 Because players who had the benefit of both theatre and gaming backgrounds played through successfully, I think that it is possible in spite of these expectations to do this kind of theatrical gaming work. Perhaps, though, it requires marketing and preparation of the audience to be very specific and worked out further than I was able to fully achieve. The live stream was very important to this point, because people who had tried the game and not escaped the office were, as planned, able to switch over and watch the rest. Today, in our current edits to the playing experience, we are exploring in-game tips and multi-player communication plug-ins to take the place of the parallel live-stream so that more people can successfully play through to the end on their own.
+
+<img src='../../images/kai.PNG'>
 
 Conclusions
 ------
@@ -86,7 +103,23 @@ But the kind of theatre we make must be thoughtful; I do not believe that doing 
 
 To make theatre in 2020, we need to translate, not graft, our work to fit the new medium. Theatre to me has a function -- bringing people together -- and I know that we can still achieve this, even if we are worlds apart. 
  
+----
 
+Join us for a [live play of lookingGlass](https://reclaimfutures.org/) Sunday 12:45pm EST and check out the whole ReclaimFutures conference this weekend starting Friday 9/18!
+
+
+
+
+And read more about lookingGlass here:
+[lookingGlass](../../new-media/2020-07-14-new-media-lookingGlass/)
+
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IYF5CmvJnog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+<!-- blank line -->
 
 
 
