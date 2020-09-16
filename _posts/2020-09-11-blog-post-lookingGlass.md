@@ -66,7 +66,7 @@ This translation, though more direct than anticipated, was not without difficult
 
 I have two theories: 
 
-1.) Audiences who have primarily thetrical backgrounds may not all be used to video games, and, especially if they are used to proscenium theatre, may not be accustomed to the level of active interaction and decision making that games require. Proscenium theatre, _delivers_ content. By contrast, in a video game, if you don’t figure out the rules of the world, then you don’t advance the story; you have to _seek out_ the content yourself.
+1.) Audiences who have primarily theatrical backgrounds may not all be used to video games, and, especially if they are used to proscenium theatre, may not be accustomed to the level of active interaction and decision making that games require. Proscenium theatre, _delivers_ content. By contrast, in a video game, if you don’t figure out the rules of the world, then you don’t advance the story; you have to _seek out_ the content yourself.
 
 2.) Audiences with backgrounds primariliy in video games are perhaps used to this, and expect to be able to discover the rules and how to “win” immediately. Push the right buttons at the right times, employ the right strategies, demonstrate the right skills -- this is traditionally as I understand it the way to succeed in a video game. _lookingGlass_, however, with its wait-it-out, the-suffering-is-part-of-it first act, does not allow for this sort of on-command advancement. Consequently this audience may become frustrated with the pacing. 
 
