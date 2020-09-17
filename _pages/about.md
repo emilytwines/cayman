@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> ## [Please join us on Twitch](https://reclaimfutures.org/rf2020/watch/) starting Friday September 18 for ReclaimFutures 2020, and tune in Sunday 12:45pm EST for links to #playlookingglass live! 
+> ## Please join us on Twitch starting Friday, September 18 for [ReclaimFutures 2020](https://reclaimfutures.org/rf2020/watch/), and tune in Sunday 12:45pm EST for links to #playlookingglass live! 
 
 
 ## Bio
