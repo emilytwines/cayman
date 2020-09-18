@@ -1,5 +1,5 @@
 ---
-title: 'Letters from Quarantine, or Why Theatre People Should Care About Video Games'
+title: 'Against "Messages in Bottles," or Why Theatre People Should Care About Video Games'
 date: 2020-09-12
 permalink: /posts/blog-lookingGlass
 excerpt: "Theatre, an art form founded on the concept of physical closeness, on the gathering and the witnessing of live bodies in space, and on the communal experience of shared, lived events, demands togetherness. And in the time of COVID-19, where being together in the traditional ways is impossible, theatre is in crisis."
@@ -99,7 +99,7 @@ Presence, after all, is an action; it is something people do, not a thing that h
 
 My suggestion is that not only is it possible to make theatre online – to achieve this presence despite distances -- but that it is imperative that we continue to do so, and because of the separation we are all enduring at the moment, that theatre as a connective force is necessary now more than ever. 
 
-But the kind of theatre we make must be thoughtful; I do not believe that doing the same plays the same ways without careful thought as to how the voices and bodies presented will interact will be successful; we must ask ourselves with each project we create: “Will the audience be emotionally and intellectually present for this -- open and active and present -- or will they passively watch?” Because one is theatre, and one is not. 
+But the kind of theatre we make must be thoughtful; I do not believe that doing the same plays the same ways without careful thought as to how the voices and bodies presented will interact will be successful; we must ask ourselves with each project we create: “Will the audience be emotionally and intellectually present for this -- open and active and present -- or will they passively watch?” Because one is theatre, and the other, a hope, stuffed inside its bottle and thrown desperately out to sea. 
 
 To make theatre in 2020, we need to translate, not graft, our work to fit the new medium. Theatre to me has a function -- bringing people together -- and I know that we can still achieve this, even if we are worlds apart. 
  
