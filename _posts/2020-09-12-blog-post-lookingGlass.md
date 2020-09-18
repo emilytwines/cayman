@@ -8,6 +8,8 @@ tags:
   - gaming
   - theatre
 ---
+> ## Read on Medium [here](https://medium.com/@emilytwines/against-messages-in-bottles-or-why-theatre-people-should-care-about-video-games-794f3af8fcce)
+
 Taking Stock
 ------
 Theatre, an art form founded on the concept of physical closeness, on the gathering and the witnessing of live bodies in space, and on the communal experience of shared, lived events, demands togetherness. And in the time of COVID-19, where being together in the traditional ways is impossible, theatre is in crisis.  
