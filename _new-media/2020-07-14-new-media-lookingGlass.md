@@ -28,17 +28,21 @@ collection: new-media
 
 I created _lookingGlass_, an experiment in digital theatre through live 3D gaming, originally as my MFA thesis when in-person performance became unsafe in March.
 
-It has since been performed for OyeDrum Magazine, and will show as part of the ReclaimFutures conference in September. An October date is also forthcoming.
+It has been performed in various stages of development, starting in May via my personal YouTube and The Living Gallery's Insragram, then in July via OyeDrum Magazine, in September at the ReclaimFutures conference, and an October date is forthcoming. 
 
 <!--- more --->
 
 The game, which is played by “audience” members live, sometimes alongside a twitch-style streamed YouTube play-through, takes its cues from Beckett and Brecht. However, the heart of the project is influenced more by Boal; interviews that I conducted with eight different artists and their artistic responses to the thought experiments therein constitute the heart of the piece.
 
-With a prototype, featured by _No Proscenium_, created between March and May 2020, and an intermediate version being presented July 15 by the online magazine _OyeDrum_, _lookingGlass_ is an attempt to combat hegemony, but also very immediately to fight isolation and alienation in this moment, to give communities the outlet they seem to currently need, and to be a place and a space to reflect or to center oneself when everything around feels like it’s spiraling apart.
+Planned as a theatre show before Quarantine, the game was always an attempt to combat hegemony, but in its iteration as a live video game, it has also become an attempt to fight isolation and alienation in this moment, to give communities the outlet they seem to currently need, and to be a place and a space to reflect or to center oneself when everything around feels like it’s spiraling apart.
 
 Past collaborators for the theatrical concept include Janine Renée Cunningham and Jon DeGaetano. Current partners include Adrian D. Cameron and Michael Redman. Interviews and Contributions from : Jane Ashe, Inkyoung Bae, Kai Custodio, Julia Frey, Ben Gorodetsky & Gus Farodetsky, Erica Kermani, Deborah Latz, and Su Wang.
 
-[Press Release for OyeDrum showing](../../files/lookingGlass_OyeDrum_PressRelease.pdf)
+<div align="center">[Press Release for OyeDrum showing](../../files/lookingGlass_OyeDrum_PressRelease.pdf)
+
+<div align="center">[Original Press Releases via No Proscenium](https://noproscenium.com/lookingglass-c4f511e814e7)
+
+<div align="center">IG: #playlookingglass 
 
 ----
 
