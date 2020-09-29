@@ -38,11 +38,11 @@ Planned as a theatre show before Quarantine, the game was always an attempt to c
 
 Past collaborators for the theatrical concept include Janine Renée Cunningham and Jon DeGaetano. Current partners include Adrian D. Cameron and Michael Redman. Interviews and Contributions from : Jane Ashe, Inkyoung Bae, Kai Custodio, Julia Frey, Ben Gorodetsky & Gus Farodetsky, Erica Kermani, Deborah Latz, and Su Wang.
 
-<div align="center">[Press Release for OyeDrum showing](../../files/lookingGlass_OyeDrum_PressRelease.pdf)
+[Press Release for OyeDrum showing](../../files/lookingGlass_OyeDrum_PressRelease.pdf)
 
-<div align="center">[Original Press Releases via No Proscenium](https://noproscenium.com/lookingglass-c4f511e814e7)
+[Original Press Releases via No Proscenium](https://noproscenium.com/lookingglass-c4f511e814e7)
 
-<div align="center">IG: #playlookingglass 
+IG: #playlookingglass 
 
 ----
 
