@@ -31,6 +31,8 @@ The original charcoal portraits and new commissions will also be available for p
 
 Dates TBA - stay tuned!
 
+#selfportraitInteractiveInstallation
+
 <!-- blank line -->
 <!-- blank line -->
 
