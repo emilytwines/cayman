@@ -16,7 +16,7 @@ A socially-distanced interactive installation in the works, “Self Portrait” 
 
 <!--- more --->
 
-Prior to the performance dates, guests planning to attend will be asked to fill out a form with details about someone for whom they care deeply, providing a short story (200 word or less) that represents why their person is special to them, as well as a bust/head shot of the person. 
+Prior to the performance dates, guests planning to attend will be asked to fill out a form with details about someone for whom they care deeply, providing a short story (200 words or less) that represents why their person is special to them, as well as a bust/head shot of the person. 
 
 Then in preparation for the showing, I will draw 18x24" charcoal portaits of these submitted photos. On the back of each one, I will hand-write the story provided by the guest.
 
