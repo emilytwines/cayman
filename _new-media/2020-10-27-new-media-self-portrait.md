@@ -32,6 +32,7 @@ The original charcoal portraits and new commissions will also be available for p
 Dates TBA - stay tuned!
 
 <!-- blank line -->
+<!-- blank line -->
 
 - Charcoal on paper
 - Interactivity 
