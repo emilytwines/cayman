@@ -22,7 +22,7 @@ Rejoining known and knower,<br>
 Light, leaf, foot, hand, and wing,<br>
 Such order as we know,<br>
 One household, high and low,<br>
-And all the earth shall sing.<br><br>
+And all the earth shall sing.<br>
 
 </p>
 For this diverse online showing of chorale pieces, I created a piece of video art as accompaniment to "The Dark Around Us, Come," composed by Thomas Cabaniss. 
