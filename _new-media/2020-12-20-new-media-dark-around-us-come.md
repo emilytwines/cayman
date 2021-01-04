@@ -6,26 +6,26 @@ collection: new-media
 
 
 <!-- blank line -->
-
+<br>
 <img src='../../images/stoop.png'>
 
 
 For this diverse online showing of chorale pieces, I created a piece of video art as accompaniment to "The Dark Around Us, Come," composed by Thomas Cabaniss. 
-
+<br>
 <p style="text-align: center;">
 
-The dark around us, come,
-Let us meet here together,
-Members one of another,
-Here in our holy room,
-Here on our little floor,
-Here in the daylit sky,
-Rejoicing mind and eye,
-Rejoining known and knower,
-Light, leaf, foot, hand, and wing,
-Such order as we know,
-One household, high and low,
-And all the earth shall sing.
+The dark around us, come, <br>
+Let us meet here together,<br>
+Members one of another,<br>
+Here in our holy room,<br>
+Here on our little floor,<br>
+Here in the daylit sky,<br>
+Rejoicing mind and eye,<br>
+Rejoining known and knower,<br>
+Light, leaf, foot, hand, and wing,<br>
+Such order as we know,<br>
+One household, high and low,<br>
+And all the earth shall sing.<br>
 
 </p>
 
