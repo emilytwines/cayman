@@ -9,8 +9,6 @@ collection: new-media
 <br>
 <img src='../../images/stoop.png'>
 
-
-For this diverse online showing of chorale pieces, I created a piece of video art as accompaniment to "The Dark Around Us, Come," composed by Thomas Cabaniss. 
 <br>
 <p style="text-align: center;">
 
@@ -25,14 +23,12 @@ Rejoining known and knower,<br>
 Light, leaf, foot, hand, and wing,<br>
 Such order as we know,<br>
 One household, high and low,<br>
-And all the earth shall sing.<br>
+And all the earth shall sing.<br><br>
 
 </p>
+For this diverse online showing of chorale pieces, I created a piece of video art as accompaniment to "The Dark Around Us, Come," composed by Thomas Cabaniss. 
 
 Based on segments of poetry from Wendell Berry, the song speaks to me of home, of joy, and of the act of witnessing our cherished places. The work I created juxtaposes close cuts of bright flowers from my front garden in Brooklyn, NY, with long shots of my front stoop. An understated video piece, I hope that the video supports the themes of the music and allows it space to shine while offering my specific interpretation of what it means to worship at a sacred space.  
-
-<br>
-<!--- more --->
 
 _Original invitation from FFC:_ In honor of this Season of Lights, join the 100-member Fairfield County Chorale for a unique online streaming event — FCC Presents, Gifts — offering an artistic and meaningful exploration of choral music in a digital setting with a truly global reach.
 
