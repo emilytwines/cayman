@@ -9,7 +9,6 @@ collection: new-media
 <br>
 <img src='../../images/stoop.png'>
 
-<br>
 <p style="text-align: center;">
 
 The dark around us, come, <br>
