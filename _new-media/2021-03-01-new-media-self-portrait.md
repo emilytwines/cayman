@@ -1,5 +1,5 @@
 ---
-title: "Self Portrait"
+title: "Current Project: Self Portrait"
 excerpt: "A Socially-Distanced Interactive Installation<br/><img src='../images/Chanan3.jpg'> A socially-distanced interactive installation in the works, “Self Portrait” is to be composed of a video sculpture and walls filled with images: images of people; of friends; of family."
 collection: new-media
 ---
