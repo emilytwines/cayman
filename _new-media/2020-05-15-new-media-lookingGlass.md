@@ -16,16 +16,6 @@ collection: new-media
 
 <!-- blank line -->
 
-- Unity Game Engine
-- C# Programming
-- Adobe Suite
-- Zoom
-- OBS, Yellow Duck
-- DSLR cameras
-- Interviews 
-- live performance
-- PR Writing and Social Media promotion
-
 I created _lookingGlass_, an experiment in digital theatre through live 3D gaming, originally as my MFA thesis when in-person performance became unsafe in March.
 
 It has been performed in various stages of development, starting in May via my personal YouTube and The Living Gallery's Insragram, then in July via OyeDrum Magazine, in September at the ReclaimFutures conference, and an October date is forthcoming. 
@@ -43,6 +33,17 @@ Past collaborators for the theatrical concept include Janine Renée Cunningham a
 [Original Press Releases via No Proscenium](https://noproscenium.com/lookingglass-c4f511e814e7)
 
 IG: #playlookingglass 
+
+
+- Unity Game Engine
+- C# Programming
+- Adobe Suite
+- Zoom
+- OBS, Yellow Duck
+- DSLR cameras
+- Interviews 
+- live performance
+- PR Writing and Social Media promotion
 
 ----
 

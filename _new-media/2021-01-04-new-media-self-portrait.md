@@ -34,7 +34,6 @@ Dates TBA - stay tuned!
 #selfportraitInteractiveInstallation
 
 <!-- blank line -->
-<!-- blank line -->
 
 - Charcoal on paper
 - Interactivity 

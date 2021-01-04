@@ -32,3 +32,7 @@ Based on segments of poetry from Wendell Berry, the song speaks to me of home, o
 _Original invitation from FFC:_ In honor of this Season of Lights, join the 100-member Fairfield County Chorale for a unique online streaming event — FCC Presents, Gifts — offering an artistic and meaningful exploration of choral music in a digital setting with a truly global reach.
 
 In an era dominated by zoom calls and social distancing, the Fairfield County Chorale offers a unique and innovative digital choral production that explores the boundaries of what online performances can be.  FCC Presents, Gifts weaves together technology, animation, Mendelssohn, cutting edge video design, Bach, dance, visual art mediums, and Mozart into one highly curated online holiday performance.  FCC Presents, Gifts showcases the successful integration of creativity, community, and collaboration in fulfilling the deepest promise of online performance.
+
+- Video Directing
+- DSLR
+- Adobe Premiere Pro
