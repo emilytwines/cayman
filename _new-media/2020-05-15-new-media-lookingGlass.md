@@ -18,7 +18,7 @@ collection: new-media
 
 I created _lookingGlass_, an experiment in digital theatre through live 3D gaming, originally as my MFA thesis when in-person performance became unsafe in March.
 
-It has been performed in various stages of development, starting in May via my personal YouTube and The Living Gallery's Insragram, then in July via OyeDrum Magazine, in September at the ReclaimFutures conference, and an October date is forthcoming. 
+It has been performed in various stages of development, starting in May via my personal YouTube and The Living Gallery's Insragram, then in July via OyeDrum Magazine, in September at the ReclaimFutures conference, and in October for EdgeCut. 
 
 <!--- more --->
 
