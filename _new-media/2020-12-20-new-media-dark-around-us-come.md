@@ -1,6 +1,6 @@
 ---
 title: "The Dark Around Us, Come"
-excerpt: "A video piece for the Fairfield County Chorale December event _FCC Presents, Gifts_. <br/><img src='../images/leaves_snapshot.png'>"
+excerpt: "A video piece for the Fairfield County Chorale December event _FCC Presents, Gifts_. <br/><img src='../images/leaves_snapshot.png'> In honor of this Season of Lights, join the 100-member Fairfield County Chorale for a unique online streaming event — FCC Presents, Gifts — offering an artistic and meaningful exploration of choral music in a digital setting with a truly global reach."
 collection: new-media
 ---
 
