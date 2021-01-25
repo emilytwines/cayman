@@ -1,6 +1,6 @@
 ---
 title: "lookingGlass"
-excerpt: "Immersive Theatre as a live 3D Video Game<br/><img src='../images/surveillance_shot.jpg'> I created _lookingGlass_, an experiment in digital theatre through live 3D gaming originally as my MFA thesis when in-person performance became unsafe in March. It has since been performed for OyeDrum Magazine, and will show as part of the ReclaimFutures conference in September. An October date is also forthcoming."
+excerpt: "Immersive Theatre as a live 3D Video Game<br/><img src='../images/surveillance_shot.jpg'> I created _lookingGlass_, an experiment in digital theatre through live 3D gaming originally as my MFA thesis when in-person performance became unsafe in March. It has since been performed for OyeDrum Magazine, as part of the ReclaimFutures conference in September, and in October for EdgeCut."
 collection: new-media
 ---
 
