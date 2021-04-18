@@ -3,10 +3,9 @@ title: "The Heights Murders"
 excerpt: "For this Interactive Theatrical Experience put on by The Heights Players of NYC, I created a WebGL 2.0 Unity game and corresponding server to support their filmic take on the classic choose-your-own-adventure-style narrative.<br/><img src='../images/THM.png'>"
 collection: new-media
 ---
+<!-- blank line -->
 
 <br>
-
-<img src='../images/THM.png'>
 
 For this Interactive Theatrical Experience put on by The Heights Players of NYC, I created a WebGL 2.0 Unity game to support their filmic take on the classic choose-your-own-adventure-style narrative. 
 
