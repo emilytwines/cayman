@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<figure class="video_container">
+<iframe width="560" height="315" src="https://youtu.be/skzomnhRWZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 ## Bio
 Emily Twines is an interdisciplinary performance and technology artist with experience directing, writing, programming, performing, and designing interactive theatrical experiences. 
 
