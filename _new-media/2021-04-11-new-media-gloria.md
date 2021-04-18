@@ -4,10 +4,11 @@ excerpt: "For this virtual version of Vivaldi’s Gloria performed by the Fairfi
 collection: new-media
 ---
 
-
+#responsive-image {  width: 25%;  height: auto; } 
 <!-- blank line -->
 <br>
-<img src='../../images/hands.png'>
+<img src='../../images/hands.png id="responsive-image" '>
+
 
 
 For this virtual version of Vivaldi’s Gloria performed by the Fairfield County Chorale, I worked with Chanan Ben Simone and Inkyoung Bae to create a cohesive music video for the movement beginning “Et in terra, pax.” We divided the music into three sections and worked independently to produce our content, but shared our work frequently and constantly sought ways to make our three pieces of the story work together.
