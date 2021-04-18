@@ -1,9 +1,8 @@
 ---
 title: "Vivaldi's \"Gloria\": Et in terra, pax"
-excerpt: "For this virtual version of Vivaldi’s Gloria performed by the Fairfield County Chorale, I worked with Chanan Ben Simone and Inkyoung Bae to create a cohesive music video for the movement beginning \"Et in terra, pax.\"<br/><img src='../images/alexShot.png' id='responsive-image'>"
+excerpt: "For this virtual version of Vivaldi’s Gloria performed by the Fairfield County Chorale, I worked with Chanan Ben Simone and Inkyoung Bae to create a cohesive music video for the movement beginning \"Et in terra, pax.\"<br/><img src='../images/alexShot.png'>"
 collection: new-media
 ---
-#responsive-image {  width: 25%;  height: auto; } 
 
 
 <!-- blank line -->
